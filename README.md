@@ -1,6 +1,6 @@
 # AnalisisComobilidadCOVID-19
--
-Este repositorio contiene un proyecto de análisis exploratorio de datos (EDA) y procesamiento masivo sobre el dataset oficial de datos abiertos de COVID-19 en México. El objetivo principal fue procesar **más de 16 millones de registros** de forma eficiente para identificar patrones de comorbilidad y factores de riesgo asociados a la gravedad de los pacientes.
+---
+* Este repositorio contiene un proyecto de análisis exploratorio de datos (EDA) y procesamiento masivo sobre el dataset oficial de datos abiertos de COVID-19 en México. El objetivo principal fue procesar **más de 16 millones de registros** de forma eficiente para identificar patrones de comorbilidad y factores de riesgo asociados a la gravedad de los pacientes.
 ---
 
 ## Objetivo del Proyecto
